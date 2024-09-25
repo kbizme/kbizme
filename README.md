@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web And Applications Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Kotlin Projects 
-- 📫 How to reach me ... drop me an email to devs[dot]kbizme[at]gmail.com
+- 📫 How to reach me ... https://linktr.ee/kbizme
 - ⚡✨ 
 
 <!---

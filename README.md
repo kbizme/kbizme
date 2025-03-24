@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Kartick Bhowmik 
 - 👀 I’m interested in Web And Applications Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Kotlin Projects 
-- 📫 How to reach me ... https://linktr.ee/kbizme
-- ⚡✨ 
+- 🌱 I’m currently developing a python scraper for the NSE exchange.
+- 💞️ I’m open to collaborate on Python Related Projects. 
+- 📫 Reach me ... https://linktr.ee/kbizme ✨ 
 
 <!---
 kbizme/kbizme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

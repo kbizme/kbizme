@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kartick Bhowmik 
-- 👀 I’m interested in Web And Applications Development
+- 👀 I’m interested in Web And GenAI Applications Development
 - 🌱 I’m currently developing a python scraper for the NSE exchange.
-- 💞️ I’m open to collaborate on Python Related Projects. 
+- 💞️ I’m open to collaborate on Python and GenAI Related Projects. 
 - 📫 Reach me ... https://linktr.ee/kbizme ✨ 
 
 <!---
